@@ -1,4 +1,4 @@
-<img src="/lady.png" alt="" />
+<img src="/profile.png" alt="" height='280' width='1200'/>
 
 <h1 align="center">Hi 👋, I'm Sandeep Prajapati</h1>
 <h3 align="center">A Fullstack Developer from Indore,India</h3>
