@@ -3,10 +3,20 @@
 <h1 align="center">Hi 👋, I'm Sandeep Prajapati</h1>
 <h3 align="center">A Fullstack Developer from Indore,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sandeep-712" alt="gesare" /> </p>
-# Hi there, I'm Gesare! 👋
 
-Welcome to my GitHub profile. I'm a passionate developer with a love for creating innovative solutions.
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sandeep-712" alt="gesare" /> </p>
+
+## Hi there, I'm Sandeep! 👋
+-->
+
+&nbsp;  
+&nbsp;
+## Welcome to my GitHub profile. 
+I'm a passionate developer with a love for creating innovative solutions.
+&nbsp;  
+
+&nbsp;  
 
 ## 🔭 I’m currently working on:
 - A web application for web3 dapp's.
@@ -17,7 +27,7 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for creatin
 - Backend development with Golang.
 
 ## 👯 I’m looking to collaborate on:
-- Frontend projects using React and Backedn projects which challenge me.
+- Frontend projects using React and Backend projects which challenge me.
 - Open-source initiatives in web development.
 
 ## 🤔 I’m looking for help with:
