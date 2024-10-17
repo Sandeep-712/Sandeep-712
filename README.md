@@ -72,4 +72,4 @@ I'm a passionate developer with a love for creating innovative solutions.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-712&show_icons=true&theme=radical&card_width=480)](https://github.com/Sandeep-712/github-readme-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sandeep-712&theme=radical"/></a>
+
